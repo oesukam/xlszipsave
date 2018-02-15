@@ -1,6 +1,6 @@
 {
   "name": "xlszipsave",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON Transformer to create, save and zip .xlsx files",
   "main": "lib/xlszipsave.js",
   "scripts": {
